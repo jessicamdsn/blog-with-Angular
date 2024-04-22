@@ -1,0 +1,20 @@
+.barra-nav{
+    display: flex;
+    gap: 12%;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.link-home{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.link-home a{
+    text-decoration: none;
+    color: black;
+}
+.link-home a{
+    text-decoration: none;
+    color: black;
+}

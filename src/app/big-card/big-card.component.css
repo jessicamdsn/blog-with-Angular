@@ -1,0 +1,12 @@
+.big-card{
+    width: 500px;
+    display: flex;
+    flex-direction: column; 
+    text-align: left;
+    padding: 30px;
+    
+}
+.small-texto{
+    color: blueviolet;
+    font-size: 15px;
+}

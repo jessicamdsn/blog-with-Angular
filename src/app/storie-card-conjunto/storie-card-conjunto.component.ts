@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, Input } from '@angular/core';
 import {StorieCardsComponent} from '../storie-cards/storie-cards.component';
 
 @Component({
@@ -9,5 +9,5 @@ import {StorieCardsComponent} from '../storie-cards/storie-cards.component';
   styleUrl: './storie-card-conjunto.component.css'
 })
 export class StorieCardConjuntoComponent {
-
+ 
 }

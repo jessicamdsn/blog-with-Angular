@@ -1,8 +1,7 @@
 .card-storie{
     display: flex;
-    width: 490px;
-    margin: 5px;
-    padding: 5px;
+    width: 460px;
+    padding: 4px;
     gap: 12px;
     align-items: center;
     justify-content: left;
@@ -10,6 +9,9 @@
 .card-storie small{
     color: blueviolet;
 }
+.card-storie .middle{
+    width: 300px;
+}
 .card-storie img{
-    margin-left: 50px;
+    border-radius: 18px;
 }

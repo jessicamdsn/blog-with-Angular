@@ -1,12 +1,18 @@
 .big-card{
-    width: 500px;
+    width: 520px;
     display: flex;
     flex-direction: column; 
     text-align: left;
     padding: 30px;
+    gap: 9px;
     
 }
 .small-texto{
     color: blueviolet;
     font-size: 15px;
+}
+.img-card{
+    width: 440px;
+    height: 280px;
+    overflow: hidden;
 }

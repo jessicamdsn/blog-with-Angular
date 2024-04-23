@@ -10,7 +10,7 @@ import { Component, OnInit } from '@angular/core';
 
 export class NavComponent implements OnInit{
 
-websiteName:string = "Blog Website"
+websiteName:string = "TechVerse"
 
 constructor(){}
 

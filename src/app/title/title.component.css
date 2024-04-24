@@ -14,3 +14,18 @@
 .titulo .p1 {
     color:  rgb(83, 1, 175);
 }
+
+@media (max-width: 1300px) {
+    .titulo{
+        font-size: 18px;
+        padding: 50px;
+        padding-top: 100px;
+        max-width: 90%;
+        margin: 0 auto;
+    }
+}
+@media (max-width: 615px) {
+    .titulo{
+        padding-top: 160px;
+    }
+}

@@ -1,3 +1,9 @@
 .selecao-card-storie{
     padding: 30px;
 }
+
+@media (max-width: 1300px) {
+    .selecao-card-storie{
+        padding: 20px;
+    }
+}

@@ -18,3 +18,9 @@
 .foot-part h2{
     text-decoration: underline;
 }
+
+@media (max-width: 1300px) {
+   .foot-part{
+    font-size: 15px;
+   }
+}

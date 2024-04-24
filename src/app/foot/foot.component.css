@@ -1,0 +1,20 @@
+.foot-part{
+    background-color: rgb(83, 1, 175);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    color: aliceblue;
+    padding: 30px;
+    gap: 12px;
+    margin-top: 50px;
+}
+.foot-part a{
+    text-decoration: underline;
+    color: aliceblue;
+}
+.foot-part a:hover{
+    color: rgb(172, 106, 233);
+}
+.foot-part h2{
+    text-decoration: underline;
+}

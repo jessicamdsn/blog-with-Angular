@@ -7,9 +7,10 @@
     gap: 10px;
     font-size: 20px;
     padding: 50px;
+    padding-top: 140px;
     max-width: 65%;
     margin: 0 auto;
 }
 .titulo .p1 {
-    color: blueviolet;
+    color:  rgb(83, 1, 175);
 }

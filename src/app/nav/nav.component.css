@@ -5,6 +5,10 @@
     align-items: center;
     padding: 25px;
     font-size: 22px;
+    background-color: rgb(83, 1, 175);
+    color: aliceblue;
+    position: fixed;
+    width: 100%;
 }
 .link-home{
     display: flex;
@@ -12,11 +16,10 @@
 }
 .link-home a{
     text-decoration: none;
-    color: black;
+    color: rgb(255, 255, 255);
 }
-.link-home a{
-    text-decoration: none;
-    color: black;
+.link-home a:hover{
+    color: rgb(161, 74, 243);
 }
 .barra-pesquisar input{
     height: 35px;

@@ -1,3 +1,19 @@
+# Blog feito com Angular
+
+Este é o meu projeto de aprendizado utilizando o framework Angular para criar um blog totalmente responsivo.
+
+<img src="blog-readme.gif" alt="Exemplo gif" width="81%">
+
+## 🚀 Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+<div style="diplay: inline_block"><br/>
+<a href="#"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/></a>
+<a href="#"><img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div><br/>
+
 # Blog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.5.
